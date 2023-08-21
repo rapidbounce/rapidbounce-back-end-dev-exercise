@@ -6,6 +6,24 @@ This is the exercise for the Back-End part of our position at rapidbounce. The o
 
 You should spend **no more than 4 hours** working on this exercise. We will by no means police you, but we do trust you to respect and comply with this constraint.
 
+## Deadline
+
+You should submit your Pull Request no later than **7 calendar days** after you receive the email from us inviting you to participate in it.
+
+## Requirements
+
+Your submission should:
+
+- [ ] Implement the spec
+- [ ] Document the implementation
+
+## Stretch goals
+
+In case you finish your implementation early, you can:
+
+- [ ] Dockerize your repository
+- [ ] Implement at least one automated test (e.g. unit test)
+
 ## Spec
 
 This is the functionality of the web application we expect you to create. It should include an HTML page and an API endpoint.
